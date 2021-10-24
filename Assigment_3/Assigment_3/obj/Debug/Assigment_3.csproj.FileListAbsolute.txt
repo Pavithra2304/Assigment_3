@@ -1,0 +1,7 @@
+F:\Dot_net\Assigment_3\Assigment_3\bin\Debug\Assigment_3.exe.config
+F:\Dot_net\Assigment_3\Assigment_3\bin\Debug\Assigment_3.exe
+F:\Dot_net\Assigment_3\Assigment_3\bin\Debug\Assigment_3.pdb
+F:\Dot_net\Assigment_3\Assigment_3\obj\Debug\Assigment_3.csproj.AssemblyReference.cache
+F:\Dot_net\Assigment_3\Assigment_3\obj\Debug\Assigment_3.csproj.CoreCompileInputs.cache
+F:\Dot_net\Assigment_3\Assigment_3\obj\Debug\Assigment_3.exe
+F:\Dot_net\Assigment_3\Assigment_3\obj\Debug\Assigment_3.pdb
